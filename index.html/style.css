@@ -1,4 +1,24 @@
 body{
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 /* text transform three properties  = lowercase, uppercase, capitalize */
+.para{
+    font-size: 60px;
+    /* text-decoration: underline; */
+    /* text-decoration-color: antiquewhite; */
+    /* text-decoration-style: dotted; */
+    
+}
+.para2{
+
+    /* word-spacing: 20px; */
+   /* | color: white; */
+    /* line-height: 40px; */
+    /* font-weight: bold; */
+}
+.head2{
+    text-shadow: 3px 4px 6px blue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}

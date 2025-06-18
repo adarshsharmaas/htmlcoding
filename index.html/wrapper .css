@@ -1,0 +1,14 @@
+.container{
+    background-color: aqua;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border: 13px double red;
+}
+.wrapper{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 20px;
+}
